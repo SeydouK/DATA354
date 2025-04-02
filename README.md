@@ -30,9 +30,9 @@ pip install -r [requirements.txt]
 
 DATA354/
 ├── [vector.py]           # Gestion des vecteurs et des documents
-├── [main.py]             # Script principal pour le chatbot sur le terminal
+├── [main.py]             # Script principal pour le chatbot sur le terminal (python .\main.py)
 ├── [main2.py]            # Script principal pour lancer le chatbot sur streamlit (streamlit run main2.py)
-├── [Scraper.ipynb]       # Script principal pour lancer le chatbot sur streamlit (streamlit run main2.py)
+├── [Scraper.ipynb]       # Script chargé d'aller récupérer les données sur le site Ecofin
 ├── [README.md]           # Documentation du projet
 ├── [requirements.txt]    # Liste des dépendances Python
 ├── [my_data_cleaned.csv] # Données utilisées pour le chatbot
