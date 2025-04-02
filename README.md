@@ -26,7 +26,7 @@ Installez les dépendances avec la commande suivante :
 ```bash
 pip install -r [requirements.txt]
 
-## Structure du projet
+# Structure du projet
 
 DATA354/
 ├── [vector.py]           # Gestion des vecteurs et des documents
