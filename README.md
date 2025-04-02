@@ -24,15 +24,15 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 Installez les dépendances avec la commande suivante :
 ```bash
-pip install -r [requirements.txt](http://_vscodecontentref_/1)
+pip install -r [requirements.txt]
 
 ## Structure du projet
 
 DATA354/
-├── [vector.py](http://_vscodecontentref_/2)          # Gestion des vecteurs et des documents
-├── [main.py](http://_vscodecontentref_/3)            # Script principal pour le chatbot sur le terminal
-├── [main2.py](http://_vscodecontentref_/4)           # Script principal pour lancer le chatbot sur streamlit (streamlit run main2.py)
-├── [Scraper.ipynb](http://_vscodecontentref_/5)           # Script principal pour lancer le chatbot sur streamlit (streamlit run main2.py)
-├── [README.md](http://_vscodecontentref_/6)          # Documentation du projet
-├── [requirements.txt](http://_vscodecontentref_/7)   # Liste des dépendances Python
-├── [my_data_cleaned.csv](http://_vscodecontentref_/8) # Données utilisées pour le chatbot
+├── [vector.py]           # Gestion des vecteurs et des documents
+├── [main.py]             # Script principal pour le chatbot sur le terminal
+├── [main2.py]            # Script principal pour lancer le chatbot sur streamlit (streamlit run main2.py)
+├── [Scraper.ipynb]       # Script principal pour lancer le chatbot sur streamlit (streamlit run main2.py)
+├── [README.md]           # Documentation du projet
+├── [requirements.txt]    # Liste des dépendances Python
+├── [my_data_cleaned.csv] # Données utilisées pour le chatbot
